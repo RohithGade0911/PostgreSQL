@@ -22,27 +22,3 @@ Within these walls lies a comprehensive suite of SQL queries, schemas, and datab
 ## Learning Journey 🌱
 
 My journey into the depths of SQL and PostgreSQL was facilitated by the comprehensive and user-friendly interface of pgAdmin4. This journey has equipped me with the knowledge and skills required to tackle the challenges of Data Engineering, from designing robust databases to optimizing complex queries for performance and scalability.
-
-## How to Use This Repository 📚
-
-This repository is structured to facilitate easy navigation and exploration of various SQL schemas and queries. Each directory contains related files grouped by complexity or topic, accompanied by README.md files when necessary to provide context or instructions.
-
-### Getting Started:
-
-1. **Clone the Repository:** 🔄 Begin by cloning this repository to your local machine to explore and experiment with the schemas and queries.
-   
-   ```bash
-   git clone https://github.com/RohithGade0911/PostgreSQL.git
-   ```
-
-2. **Navigate and Explore:** 🕵️‍♂️ Browse through the directories to find schemas and queries of interest. Use pgAdmin4 to execute the SQL files and observe the outcomes.
-
-3. **Learn and Experiment:** 🧪 Use the provided SQL files as a learning tool. Modify the queries, experiment with different scenarios, and observe the results to deepen your understanding.
-
-## Contributing 🤝
-
-While this repository serves as a personal learning documentation, I am open to contributions, suggestions, and discussions from fellow enthusiasts and professionals. Feel free to fork the repository, submit pull requests, or reach out with ideas on how to enhance and expand this collection.
-
-## Acknowledgements 🙏
-
-I extend my gratitude to the PostgreSQL community and the developers of pgAdmin4 for providing the tools and resources that have been pivotal in my learning journey.
